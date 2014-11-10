@@ -1,6 +1,7 @@
 # Can You Hack It
 
-Final project for CWRU's Fall '14 Hardware Security class
+Final project for CWRU's Fall '14 Hardware Security class.
+
 Our board will detect communication over bluetooth via a simple iOS app.
 
 ## Group Members
@@ -14,4 +15,4 @@ Our board will detect communication over bluetooth via a simple iOS app.
 ## Development
 Both the iOS app & the c code for bluetooth communications are hosted in this application.
 
-_Reminder_: branch early & commit often to ensure less headache
+*Reminder*: branch early & commit often to ensure less headache
