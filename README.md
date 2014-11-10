@@ -10,6 +10,7 @@ Our board will detect communication over bluetooth via a simple iOS app.
 * Eric Luan
 * Michael Harkins
 * Sam Schneider
+* Matt Prosser
 * Gregory Ziegan
 
 ## Development
